@@ -1,5 +1,5 @@
 # hacker_news
-Mimicing Hacker News
+Mimicking Hacker News
 
 The goal of this small project is to mimic Hacker News.
 
